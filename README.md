@@ -6,7 +6,7 @@
 
 ## 👋 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (hhttps://www.linkedin.com/in/matheus-oliveira-bitencourt-dos-santos-15132520a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/matheus-oliveira-bitencourt-dos-santos-15132520a/)
 
 ## 📚 Possuo conhecimentos em
 
